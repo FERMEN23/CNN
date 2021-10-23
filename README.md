@@ -1,2 +1,2 @@
 # CNN
-Repositorio para Proyecto de Investigación
+Repositorio del Proyecto de Investigación sobre detección de tipos de vehículos con Redes Neuronales Convolucionales 2D
